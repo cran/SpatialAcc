@@ -1,0 +1,11 @@
+08b29c423d7f89f2fbbb513abbdd588d *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+f1e175e6b666b16f2ebe78fbfb7e04b8 *R/ac.R
+2cffe091a125f3987ccebb49608a5d08 *R/distance.R
+d726c3793250fba2f29db0fa88ca8928 *data/GR.Hospitals.RData
+61e25fbcddc27a34deb31d2984120d63 *data/PWC.Municipalities.RData
+0991f92f775a403fd7c9b24848218033 *data/datalist
+984d95d525778960a43aa58191913416 *man/GR.Hospitals.Rd
+4a730db95e1ce5069002d969352a70ad *man/PWC.Municipalities.Rd
+0645d4e4d5f5cc7c99895d62eeaabe8b *man/ac.Rd
+1a8df44afc7610e9b0daab71c033e7af *man/distance.Rd
