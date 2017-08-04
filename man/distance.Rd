@@ -6,15 +6,15 @@
 distance(m1, m2, type = "euclidean")
 }
 \arguments{
-  \item{m1}{a vector refering to a set of origin point coordinates}
-  \item{m2}{a vector refering to a set of destination point coordinates}
+  \item{m1}{a vector referring to a set of origin point coordinates}
+  \item{m2}{a vector referring to a set of destination point coordinates}
   \item{type}{the type of distance to be computed. Two types are currently supported "euclidean" and "manhattan".}
 }
-\details{When m1 and m2 are idential the function is equivalent to the \code{\link{dist}} function of base R.}
+\details{When m1 and m2 are identical, the function is equivalent to the \code{\link{dist}} function of base R.}
 
 \value{A distances matrix in which rows refer to origins and columns refer to destinations.}
 
-\author{Stamatis Kalogirou <skalo@hua.gr>}
+\author{Stamatis Kalogirou <stamatis@lctools.science>}
 
 
 \seealso{
