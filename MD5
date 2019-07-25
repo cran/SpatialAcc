@@ -1,12 +1,12 @@
-5a3b7b70501fc0feb8de8f4eaa402305 *DESCRIPTION
+b2f1e5def896a28d17384f620f195728 *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
-f1e175e6b666b16f2ebe78fbfb7e04b8 *R/ac.R
+8738a827420dfaf99fe95eb0ece06d63 *R/ac.R
 2cffe091a125f3987ccebb49608a5d08 *R/distance.R
-e07365ce0f26f98b0f66d081aa2c9f80 *data/GR.Hospitals.RData
-18c76f7cf0444d91aab2f205911b35f8 *data/PWC.Municipalities.RData
+cb44cf307f92473c03e1d79aa8a1e243 *data/GR.Hospitals.RData
+850e6313391655fc47a2b07c6b668004 *data/PWC.Municipalities.RData
 0991f92f775a403fd7c9b24848218033 *data/datalist
 0d1b414a2dc405fb57782497e56e469b *man/GR.Hospitals.Rd
 e5f3b9d45ed567a9eecd15d6e644889d *man/PWC.Municipalities.Rd
 3b31b129c3ddbce9ac3e340f33b0c7d9 *man/SpatialAcc-package.Rd
-4d72ac9e6cdd34863a7f39fa3e67fc07 *man/ac.Rd
+bcbca4bec1a1686fe039f65d7e283c9c *man/ac.Rd
 5a51f42fba2299887bdebd943ca7d2a8 *man/distance.Rd

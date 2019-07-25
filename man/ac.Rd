@@ -33,7 +33,7 @@ Kalogirou, S., Spatial analysis of accessibility to public hospitals using GIS, 
 n<-1:4
 p<-20:25
 D<-matrix(1:24, ncol=4, nrow=6)
-Acc.p <- ac(n, p, D)
+Acc.p <- ac(p, n, D)
 }
 
 \keyword{accessibility}

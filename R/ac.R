@@ -2,7 +2,7 @@ ac <- function(p, n, D, d0, power=2, family="SAM") {
 
   if (family == "SAM")
     {
-      ac.matrix <- n/(p*(D^power))
+      ac.matrix <- t(n/t(p*(D^power)))
       ac.measure <- apply(ac.matrix, 1, sum)
     }  else if (family == "2SFCA")
     {
