@@ -33,9 +33,6 @@ The source of the hospital beds, hospital discharges and in-patient nights stati
 }
 \references{
 Kalogirou, S. (2017). Spatial inequality in the accessibility to hospitals in Greece, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W2, 91-94, https://doi.org/10.5194/isprs-archives-XLII-4-W2-91-2017.
-
-Kalogirou, S., Spatial analysis of accessibility to public hospitals using GIS, in Medical Geographical Information - Applications, Analysis and Mapping, SPRINGER, under publication.
-
 }
 \examples{
 data(GR.Hospitals)

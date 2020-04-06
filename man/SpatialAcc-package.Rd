@@ -9,8 +9,8 @@
 \tabular{ll}{
 Package: \tab SpatialAcc\cr
 Type: \tab Package\cr
-Version: \tab 0.1-2\cr
-Date: \tab 2017-08-05\cr
+Version: \tab 0.1-4\cr
+Date: \tab 2020-04-06\cr
 License: \tab GPL (>= 2)
 }
 
@@ -24,8 +24,7 @@ Maintainer: Stamatis Kalogirou <stamatis@lctools.science>}
 Kalogirou, S., and Foley, R. (2006). Health, place and Hanly: Modelling accessibility to hospitals in Ireland. Irish Geography, 39(1), 52-68.
 
 Kalogirou, S. (2017). Spatial inequality in the accessibility to hospitals in Greece, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W2, 91-94, https://doi.org/10.5194/isprs-archives-XLII-4-W2-91-2017.
-
-Kalogirou, S., Spatial analysis of accessibility to public hospitals using GIS, in Medical Geographical Information - Applications, Analysis and Mapping, SPRINGER, under publication.}
+}
 
 \keyword{package}
 \keyword{spatial analysis}

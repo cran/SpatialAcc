@@ -26,9 +26,7 @@ ac(p, n, D, d0, power=2, family="SAM")
 Kalogirou, S., and Foley, R. (2006). Health, place and Hanly: Modelling accessibility to hospitals in Ireland. Irish Geography, 39(1), 52-68.
 
 Kalogirou, S. (2017). Spatial inequality in the accessibility to hospitals in Greece, The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLII-4/W2, 91-94, https://doi.org/10.5194/isprs-archives-XLII-4-W2-91-2017.
-
-Kalogirou, S., Spatial analysis of accessibility to public hospitals using GIS, in Medical Geographical Information - Applications, Analysis and Mapping, SPRINGER, under publication.}
-
+}
 \examples{
 n<-1:4
 p<-20:25
