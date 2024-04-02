@@ -14,7 +14,7 @@ distance(m1, m2, type = "euclidean")
 
 \value{A distances matrix in which rows refer to origins and columns refer to destinations.}
 
-\author{Stamatis Kalogirou <stamatis@lctools.science>}
+\author{Stamatis Kalogirou <stamatis.science@gmail.com>}
 
 
 \seealso{

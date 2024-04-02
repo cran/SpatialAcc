@@ -20,7 +20,7 @@ ac(p, n, D, d0, power=2, family="SAM")
 
 \value{a vector with accessibility measures for all locations (defined by the length of p).}
 
-\author{Stamatis Kalogirou <stamatis@lctools.science>}
+\author{Stamatis Kalogirou <stamatis.science@gmail.com>}
 
 \references{
 Kalogirou, S., and Foley, R. (2006). Health, place and Hanly: Modelling accessibility to hospitals in Ireland. Irish Geography, 39(1), 52-68.

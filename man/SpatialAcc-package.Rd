@@ -9,8 +9,8 @@
 \tabular{ll}{
 Package: \tab SpatialAcc\cr
 Type: \tab Package\cr
-Version: \tab 0.1-4\cr
-Date: \tab 2020-04-06\cr
+Version: \tab 0.1-5\cr
+Date: \tab 2024-04-02\cr
 License: \tab GPL (>= 2)
 }
 
@@ -18,7 +18,7 @@ License: \tab GPL (>= 2)
 \author{
 Stamatis Kalogirou
 
-Maintainer: Stamatis Kalogirou <stamatis@lctools.science>}
+Maintainer: Stamatis Kalogirou <stamatis.science@gmail.com>}
 
 \references{
 Kalogirou, S., and Foley, R. (2006). Health, place and Hanly: Modelling accessibility to hospitals in Ireland. Irish Geography, 39(1), 52-68.

@@ -1,11 +1,11 @@
 Package: SpatialAcc
 Type: Package
 Title: Spatial Accessibility Measures
-Version: 0.1-4
-Date: 2020-04-06
-Authors@R: person("Stamatis", "Kalogirou", email = "stamatis@lctools.science",
+Version: 0.1-5
+Date: 2024-04-02
+Authors@R: person("Stamatis", "Kalogirou", email = "stamatis.science@gmail.com",
                   role = c("aut", "cre"))
-Depends: R (>= 3.6)
+Depends: R (>= 4.0)
 Imports: sp
 Description: Provides a set of spatial accessibility measures from a set of locations 
              (demand) to another set of locations (supply). It aims, among others, 
@@ -13,10 +13,10 @@ Description: Provides a set of spatial accessibility measures from a set of loca
              Includes the locations and some characteristics of major public hospitals in Greece.
 License: GPL (>= 2)
 LazyData: TRUE
-URL: http://lctools.science/
+URL: https://stamatisgeoai.eu/
 NeedsCompilation: no
-Packaged: 2020-04-05 22:23:53 UTC; stama
+Packaged: 2024-04-01 23:06:35 UTC; Stamatis
 Author: Stamatis Kalogirou [aut, cre]
-Maintainer: Stamatis Kalogirou <stamatis@lctools.science>
+Maintainer: Stamatis Kalogirou <stamatis.science@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-04-06 10:22:06 UTC
+Date/Publication: 2024-04-02 00:00:05 UTC
